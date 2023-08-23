@@ -1,0 +1,17 @@
+#complist {
+    background-color: rgb(94, 41, 144);
+    color:goldenrod;
+    width: 675px;
+    height: 0 auto;
+    border-radius: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    border: solid;
+}
+
+#comppara {
+    width: 425px;
+    height: 5px;
+}
